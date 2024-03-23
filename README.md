@@ -1,6 +1,7 @@
 ### Dataset
 HAM10000 is a dataset used in the field of dermatology and machine learning for the classification of skin lesions. It consists of 10,015 dermatoscopic images of various skin lesions, including benign and malignant melanomas, nevi (moles), and other types of skin lesions.
-![images](..\docs\images.png)
+
+![images](https://github.com/lopesdaniell/Dermatoscopic-Image-Classification/blob/main/docs/images.png)
 
 
 ### Acknowledgment
